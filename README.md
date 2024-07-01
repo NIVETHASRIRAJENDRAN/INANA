@@ -8,7 +8,7 @@ This is a simple product listing web application that fetches data from a dummy 
 - Interactive navigation bar
   
  Live Demo
- link: https://shalini377.github.io/product_webpage/
+ link: https://euphonious-quokka-6fe63c.netlify.app/
 
 Getting Started
 Follow these instructions to get a copy of the project running on your local machine for development and testing purposes.
